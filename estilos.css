@@ -1,0 +1,102 @@
+body { 
+
+
+background: rgb(219,16,16);
+background: linear-gradient(90deg, rgba(219,16,16,1) 13%, rgba(51,31,37,0.7973390039609594) 65%); 
+
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+
+}
+
+head {
+  color: aliceblue;
+
+}
+
+table {
+  background: linear-gradient(90deg, rgba(219,16,16,1) 13%, rgba(51,31,37,0.7973390039609594) 65%);
+  background: linear-gradient(900deg, );
+  border: 2px solid white;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  color: aliceblue;
+
+}
+
+td,
+th{
+  border-bottom: 2px solid white;
+
+}
+
+tr:hover {
+  background-color: rgb(172, 48, 44);
+  color: aliceblue;
+
+}
+img {
+  width: 100px;
+}
+
+td footer img{
+  width: 68%;
+}
+
+td footer img {
+  width: 60%;
+}
+
+footer ul {
+  list-style: none;
+}
+
+#redes {
+  text-align: center;
+}
+
+#redes li {
+  display: inline-block;
+}
+
+.redes {
+  display: inline-block;
+  margin: 20px;
+}
+
+p {
+
+  text-align: center;
+  color: white;
+}
+
+#redes img {
+
+
+  width: 50%;
+}
+tr{
+
+font-size: 1.1em;
+
+
+}
+.imagen {
+  width: 15%;
+}
+#foot{
+
+  font-size: 1.5em;
+}
+th{
+  text-align: right;
+ 
+
+}
+
+
+  
